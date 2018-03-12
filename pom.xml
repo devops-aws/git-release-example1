@@ -4,10 +4,9 @@
 
 	<groupId>com.vitormp</groupId>
 	<artifactId>git-release-example</artifactId>
-	<version>0.1.14-SNAPSHOT</version>
-	<packaging>war<packaging>
-
-	<name>git-release-example Maven Webapp</name
+	<version>0.1.15-SNAPSHOT</version>
+	<packaging>war</packaging>
+	<name>git-release-example Maven Webapp</name>
 
 	<scm>
 		<connection>scm:git:git@github.com:sundeepbobba/git-release-example.git</connection>
